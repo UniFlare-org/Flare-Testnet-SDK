@@ -22,9 +22,10 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@uniswap/v2-core": "https://github.com/code6449/Liquidity-Factory.git",
+    "@uniswap/v2-core": "https://github.com/UniFlare-org/UniFlare-core.git",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
+    "git": "^0.1.5",
     "jsbi": "^3.1.1",
     "tiny-invariant": "^1.1.0",
     "tiny-warning": "^1.0.3",
